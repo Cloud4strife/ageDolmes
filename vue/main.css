@@ -1,0 +1,72 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("../vue/image/background/background.JPG");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#header{
+    background-color: white;
+    position: fixed;
+    padding: 0px;
+    width: 100%;
+}
+
+#header a{
+    text-decoration: none;
+    color: black;
+}
+.boutonMenuLeft{
+    display: inline-block;
+    padding: 5px;  
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.boutonMenuLeft:hover {
+    background-color: gray;
+}
+
+.boutonMenuLeft:active {
+    background-color: black;
+    color: white;
+}
+
+.boutonMenuRight{
+    padding: 5px; 
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 10px; 
+    float: right;
+}
+
+.boutonMenuRight:hover {
+    background-color: gray;
+}
+
+.boutonMenuRight:active {
+    background-color: black;
+    color: white;
+}
+
+#corps{
+    padding:  10%;
+    color: #006633;  
+}
+
+#cadre {
+    margin-top: 200px;;
+    background-image: url("../vue/image/cadre/texture_planche_bois.jpg");
+    background-attachment: fixed;
+    
+    padding: 5%;
+    border: 5px white solid;
+    border-radius: 10px;
+    font: bold 16px meiryo;
+    text-align: left;
+}
+
