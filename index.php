@@ -10,7 +10,7 @@
     <body>
         <center><div id = "corpsIndex">
             <h1> Bienvenu sur le site de l'association Age D'olmes ! </h1>
-            <a href = "controleur/Accueil.php"><div id = "indexBouton"><h3> Entrer </h3></div></a>
+            <a href = "controleur/Accueil.php"><div id = "indexBouton"><h2> Entrer </h2></div></a>
         </div></center>
     </body>
 </html>

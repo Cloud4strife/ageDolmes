@@ -60,13 +60,13 @@ body{
 
 #cadre {
     margin-top: 200px;;
-    background-image: url("../vue/image/cadre/texture_planche_bois.jpg");
-    background-attachment: fixed;
-    
+    /*background-image: url("../vue/image/cadre/texture_planche_bois.jpg");*/
+    /*background-attachment: fixed;*/
+    background-color: #cc6600;
     padding: 5%;
     border: 5px white solid;
     border-radius: 10px;
-    font: bold 16px meiryo;
+    font: bold 150% meiryo;
     text-align: left;
 }
 

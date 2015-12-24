@@ -1,5 +1,5 @@
 #indexBouton{
-    border: 5px outset gray;
+    border: 10px outset gray;
     width: 20%;
    
 }
@@ -9,8 +9,10 @@
 }
 
 #corpsIndex{
+
     padding: 10%; 
     color: white;
+    font-size: 200%;
 }
 
 #corpsIndex a{
@@ -21,10 +23,6 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: #a90329; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #a90329 0%, #8f0222 28%, #6d0019 100%); /* FF3.6-15 */
-    background: -webkit-radial-gradient(center, ellipse cover,  #a90329 0%,#8f0222 28%,#6d0019 100%); /* Chrome10-25,Safari5.1-6 */
-    background: radial-gradient(ellipse at center,  #a90329 0%,#8f0222 28%,#6d0019 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
+    background-color: #660000;
+   
 }
